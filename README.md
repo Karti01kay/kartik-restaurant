@@ -2,4 +2,4 @@
 
 ### [Live Site](https://karti01kay.github.io/kartik-restaurant/)
 
-![Restaurant](https://ibb.co/7zMDgnV)
+![Restaurant](https://i.postimg.cc/QC2qVpsp/1.png)
